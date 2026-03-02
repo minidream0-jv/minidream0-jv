@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Моя статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minidream0-jv&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minidream0-jv&theme=radical)
 
 ---
 
