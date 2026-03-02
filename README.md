@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Как со мной связаться
-* **Discord:** []
+* **Mail:** [minidream579@gmail.com]
 * **Telegram:** [@Minidream0]
